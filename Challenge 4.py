@@ -10,3 +10,4 @@ Salary = MonthlyWage - MonthlyRent - GroceryBill - EntertainmentExpenses - Trave
 print("Your Total Salary is {}.".format(Salary))
 TotalSalary = Salary - Taxes - Utilities
 print("Your total salary subtracted by your Taxes and Utility expenses is {}.".format(TotalSalary))
+
