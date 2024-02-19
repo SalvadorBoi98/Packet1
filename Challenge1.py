@@ -5,3 +5,4 @@ decades = age / 10
 weeks = age * 52
 minutes = age * 525600
 print("You are {} days old, {} decades old, {} weeks old, and {} minutes old. You're old!".format(days, decades, weeks, minutes))
+
